@@ -1,5 +1,5 @@
-Ubuntu 20.04 Ansible Test image for Java Application
-=================================================
+Ubuntu 20.04 Ansible Test image for Java Applications
+=====================================================
 
 [![CI](https://github.com/timkids/docker-ubuntu2004-java-ansible/actions/workflows/build-and-push.yml/badge.svg?event=push)](https://github.com/timkids/docker-ubuntu2004-java-ansible/actions/workflows/build-and-push.yml) [![ubuntu build status](https://img.shields.io/docker/cloud/build/timkids/docker-ubuntu2004-java-ansible.svg)](https://hub.docker.com/repository/docker/timkids/docker-ubuntu2004-java-ansible)
 
