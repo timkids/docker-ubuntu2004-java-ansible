@@ -1,7 +1,5 @@
 FROM ubuntu:20.04
 
-ENV container=docker
-
 LABEL maintainer="timkids"
 
 ENV DEBIAN_FRONTEND noninteractive
